@@ -158,9 +158,7 @@ img {
   color: var(--second-color);
 }
 .imgs{
-
-  padding: 10px;
-  width: 100px;
+  width: 120px;
 }
 .nav__toggle {
   color: var(--second-color);
