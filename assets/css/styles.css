@@ -295,17 +295,17 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
+.skills__python {
   width: 95%;
 }
-.skills__css {
+.skills__aws {
   width: 85%;
 }
-.skills__js {
-  width: 65%;
+.skills__Flutter {
+  width: 70%;
 }
-.skills__ux {
-  width: 85%;
+.skills__c {
+  width: 60%;
 }
 .skills__img {
   border-radius: 0.5rem;
